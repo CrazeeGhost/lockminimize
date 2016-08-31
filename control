@@ -1,0 +1,9 @@
+Package: com.crazeeghost.lockminimize
+Name: LockMinimize
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Minimize the open app when phone is locked
+Maintainer: CrazeeGhost
+Author: CrazeeGhost
+Section: Tweaks
