@@ -7,7 +7,7 @@ include $(THEOS)/makefiles/common.mk
 TWEAK_NAME = LockMinimize
 LockMinimize_FILES = Tweak.xm
 
-PopupOnStart_FRAMEWORKS = UIKit
+LockMinimize_FRAMEWORKS = UIKit
 
 include $(THEOS_MAKE_PATH)/tweak.mk
 
